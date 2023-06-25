@@ -1,11 +1,11 @@
-## Portfolio
+## Data Analyst Project Portfolio
 
 ---
 
-### Category Name 1 
+### [Project 1: Text and Sentiment Analysis for Motorcycle Online Marketplace Review](https://github.com/aiightvert/Text-and-Sentiment-Analysis-for-Motorcycle-Review)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**Description**
+This project is intended to analyze the 
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
