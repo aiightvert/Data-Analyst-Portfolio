@@ -28,6 +28,12 @@ The dataset is self-collected and mined by myself through various visit to multi
 
 <img src="images/wordcloud1.png?raw=true"/>
 
+**Scope 2**
+
+<img src="images/uji_akurasi.png?raw=true"/>
+
+The result of the second scope generated a machine learning model that able to predict customer's sentiment (positive/negative) regarding a product based on their review comment up to a 97% accuracy.
+
 <br><br>
 <a href="https://github.com/aiightvert/Text-and-Sentiment-Analysis-for-Motorcycle-Review">Click here for the full project repository</a> 
 
