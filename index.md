@@ -6,7 +6,7 @@
 
 **Description**
 
-This project simulates the full governance of a fictional UK-based retail store data. The goal is to process a raw big data from the company to generate useful information and insights that can support the business by fact-based supported decision. 
+This group project simulates the full governance of a fictional UK-based retail store data. The goal is to process a raw big data from the company to generate useful information and insights that can support the business by fact-based supported decision. 
 <br><br>
 
 **Dataset**
