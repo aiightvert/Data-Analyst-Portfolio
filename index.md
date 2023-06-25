@@ -72,26 +72,17 @@ The result of the second scope generated a machine learning model that able to p
 <a href="https://github.com/aiightvert/Text-and-Sentiment-Analysis-for-Motorcycle-Review">Click here for the full project repository</a> 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [ONGOING] Bachelor Final Thesis Project : Option Price Modelling Using Artificial Neural Network Method
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Option is a derivative financial instrument that practices the act of buying or selling underlying asset contracts. As a financial market enthusiast and an aspiring data scientist, my objective is to produce an artificial machine learning system that able to compute the correct price of an option by modelling it's underlying asset's price movement.
 
----
+**Tools**
+- Python
+- Matlab
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+**Methods**
+- Black Scholes Merton Model
+- Heston (Implied Volatility) Model
+- Artificial Neural Network (ANN)
 
 ---
