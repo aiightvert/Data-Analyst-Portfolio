@@ -36,8 +36,6 @@ The dataset is imported from UCI Machine Learning Repository from the URL <a hre
 
 ---
 
----
-
 ### [Project 2: Text and Sentiment Analysis for Motorcycle Online Marketplace Review](https://github.com/aiightvert/Text-and-Sentiment-Analysis-for-Motorcycle-Review)
 
 **Description**
