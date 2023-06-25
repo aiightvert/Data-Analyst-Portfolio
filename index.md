@@ -12,7 +12,8 @@ This project is based on text analysis regarding customer review with the purcha
 **Dataset**
 
 The dataset is self-collected and mined by myself through various visit to multiple marketplace and seller's page to produce an excel format (will be converted to csv. while exporting). It contains 202 rows and 5 columns of data.
-<img src="images/data_motor.png?raw=true"/>
+
+<img src="images/data_motor1.png?raw=true"/>
 
 **Tools**
 - Excel
@@ -24,7 +25,11 @@ The dataset is self-collected and mined by myself through various visit to multi
 - Naive Bayes for machine learning : Bernoulli Model
 
 **Scope 1**
+
 <img src="images/wordcloud1.png?raw=true"/>
+
+<br><br>
+<a href="https://github.com/aiightvert/Text-and-Sentiment-Analysis-for-Motorcycle-Review">Click here for the full project respository</a> 
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
