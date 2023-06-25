@@ -2,9 +2,9 @@ title: Dennis Imanuel # your name (or website title) here
 logo: "/images/2022.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
    <br><br>
-  Undergraduate Mathematics student with data analytics professional working experience and an aspiring datascientist.
+  Undergraduate Mathematics student with data analytics professional working experience and an aspiring data scientist.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/dennis-imanuel-irwanto-547600236/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
