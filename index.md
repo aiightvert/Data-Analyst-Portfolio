@@ -2,7 +2,7 @@
 
 ---
 
-### [Project 1: Data Pipeline Extract, Transform, Load (ETL) , Reporting and Visualization]
+### [Project 1: Data Pipeline Extract, Transform, Load (ETL) , Reporting and Visualization](https://github.com/aiightvert/Pipeline-ETL-Reporting-Visualization)
 
 **Description**
 
@@ -32,7 +32,7 @@ The dataset is imported from UCI Machine Learning Repository from the URL <a hre
 <img src="images/Visual2.png?raw=true"/>
 
 <br><br>
-<a href="https://github.com/aiightvert/Text-and-Sentiment-Analysis-for-Motorcycle-Review">Click here for the full project repository</a> 
+<a href="https://github.com/aiightvert/Pipeline-ETL-Reporting-Visualization">Click here for the full project repository</a> 
 
 ---
 
