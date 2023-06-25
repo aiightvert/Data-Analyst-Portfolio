@@ -12,7 +12,6 @@ This project is based on text analysis regarding customer review with the purcha
 **Dataset**
 
 The dataset is self-collected and mined by myself through various visit to multiple marketplace and seller's page to produce an excel format (will be converted to csv. while exporting). It contains 202 rows and 5 columns of data.
-
 <img src="images/data_motor.png?raw=true"/>
 
 **Tools**
