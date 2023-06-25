@@ -13,16 +13,17 @@ This project simulates the full governance of a fictional UK-based retail store 
 
 The dataset is imported from UCI Machine Learning Repository from the URL <a href="https://github.com/aiightvert/Text-and-Sentiment-Analysis-for-Motorcycle-Review">https://archive.ics.uci.edu/dataset/502/online+retail+ii</a> which contains 1.067.371 rows (which later to be cleansed to 824.364 rows) and 8 columns of various products informations and sales.
 
-<img src="images/data_motor1.png?raw=true"/>
+<img src="images/data_retail.png?raw=true"/>
 
 **Tools**
-- Excel
 - Python
+- SQL
+- Tableau
 
 **Methods**
-- Text Data Pre-processing (Stemming, Lemmatization, etc.)
-- Wordcloud
-- Naive Bayes for machine learning : Bernoulli Model
+- Extract, Transform, Load (ETL)
+- Data Analysis using Python Pandas
+- Data Visualization using Tableau
 
 **Scope 1**
 
