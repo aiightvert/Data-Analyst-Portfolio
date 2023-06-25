@@ -2,7 +2,46 @@
 
 ---
 
-### [Project 1: Text and Sentiment Analysis for Motorcycle Online Marketplace Review](https://github.com/aiightvert/Text-and-Sentiment-Analysis-for-Motorcycle-Review)
+### [Project 1: Data Pipeline Extract, Transform, Load (ETL) , Reporting and Visualization]
+
+**Description**
+
+This project simulates the full governance of a fictional UK-based retail store data. The goal is to process a raw big data from the company to generate useful information and insights that can support the business by fact-based supported decision. 
+<br><br>
+
+**Dataset**
+
+The dataset is imported from UCI Machine Learning Repository from the URL <a href="https://github.com/aiightvert/Text-and-Sentiment-Analysis-for-Motorcycle-Review">https://archive.ics.uci.edu/dataset/502/online+retail+ii</a> which contains 1.067.371 rows (which later to be cleansed to 824.364 rows) and 8 columns of various products informations and sales.
+
+<img src="images/data_motor1.png?raw=true"/>
+
+**Tools**
+- Excel
+- Python
+
+**Methods**
+- Text Data Pre-processing (Stemming, Lemmatization, etc.)
+- Wordcloud
+- Naive Bayes for machine learning : Bernoulli Model
+
+**Scope 1**
+
+<img src="images/wordcloud1.png?raw=true"/>
+
+**Scope 2**
+
+<img src="images/uji_akurasi.png?raw=true"/>
+
+The result of the second scope generated a machine learning model that able to predict customer's sentiment (positive/negative) regarding a product based on their review comment up to a 97% accuracy.
+
+<br><br>
+<a href="https://github.com/aiightvert/Text-and-Sentiment-Analysis-for-Motorcycle-Review">Click here for the full project repository</a> 
+
+---
+
+---
+
+### [Project 2: Text and Sentiment Analysis for Motorcycle Online Marketplace Review](https://github.com/aiightvert/Text-and-Sentiment-Analysis-for-Motorcycle-Review)
 
 **Description**
 
@@ -61,5 +100,3 @@ The result of the second scope generated a machine learning model that able to p
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
